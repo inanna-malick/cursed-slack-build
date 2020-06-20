@@ -1,0 +1,10 @@
+[package]
+name = "cursed-slack-build"
+version = "0.1.0"
+authors = ["inanna malick <inanna@recursion.wtf>"]
+edition = "2018"
+
+[dependencies]
+
+[build-dependencies]
+slack_api = "0.21.0"
